@@ -79,45 +79,17 @@ El servicio SensorService es el Servicio de Sensores en Windows 10. Este servici
 -SensrSvc\
 Este servicio es complemento del de arriba.
 
--shpamsvc\
-
 -SysMain\
+SysMain es un servicio en Windows que tiene como objetivo mejorar el rendimiento del sistema, en algunos casos, SysMain puede consumir muchos recursos del disco y provocar un uso elevado de la CPU.
 
 -TapiSrv\
+TapiSrv es el Servicio de Telefonía en Windows. Este servicio administra los servicios de telefonía como el marcado de números, etc.
 
 -TermService\
-
--tzautoupdate\
+El servicio de TermService es un componente de Windows que permite a un usuario acceder a las aplicaciones y datos almacenados en otro ordenador mediante wifi.
 
 -UevAgentService\
-
--uhssvc\
-
--UmRdpService\
-
--vmicguestinterface\
-
--vmicheartbeat\
-
--vmickvpexchange\
-
--vmicrdv\
-
--vmicshutdown\
-
--vmictimesync\
-
--vmicvmsession\
-
--vmicvss\
-
--WalletService\
-
--WbioSrvc\
-
--WdiServiceHost\
-
--WdiSystemHost\
+permite capturar opciones de configuración de Windows y de las aplicaciones personalizadas por el usuario y almacenarlas en un recurso compartido de archivos de red administrado de forma centralizada.
 
 -wercplsupport\
 
