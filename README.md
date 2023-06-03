@@ -14,6 +14,7 @@ Gracias por tu atencion, si es que leiste esto.
 El servicio "AppVClient" es responsable de gestionar la ejecución de las aplicaciones virtualizadas a través de App-V. En pocas palabras, si no emulas sistemas operativos VIRTUALES en tu pc, no necesitas para nada este servicio.\
 
 -autotimesvc\
+El servicio "autotimesvc" es responsable de "cambiar" el reloj de tu computador cuando el horario cambia, pongo cambiar entre comillas porque deshabilitando este servicio podemos darnos cuenta de que aunque el horario cambie, el sistema sigue acomodando la hora de nuestro computador.\ 
 
 -diagnosticshub.standardcollector.service\
 
