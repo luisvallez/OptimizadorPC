@@ -11,7 +11,7 @@ Gracias por tu atencion, si es que leiste esto.
 
 ## Servicios que deshabilita el programa ✅
 -AppVClient:\
-El servicio "AppVClient" es responsable de gestionar la ejecución de las aplicaciones virtualizadas a través de App-V. Proporciona la infraestructura necesaria para el aprovisionamiento, la entrega y la ejecución de las aplicaciones virtualizadas en los sistemas cliente.\
+El servicio "AppVClient" es responsable de gestionar la ejecución de las aplicaciones virtualizadas a través de App-V. En pocas palabras, si no emulas sistemas operativos VIRTUALES en tu pc, no necesitas para nada este servicio.\
 
 -autotimesvc\
 
