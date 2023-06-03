@@ -11,12 +11,13 @@ Gracias por tu atencion, si es que leiste esto.
 
 ## Servicios que deshabilita el programa ✅
 -AppVClient:\
-El servicio "AppVClient" es responsable de gestionar la ejecución de las aplicaciones virtualizadas a través de App-V. En pocas palabras, si no emulas sistemas operativos VIRTUALES en tu pc, no necesitas para nada este servicio.\
+El servicio "AppVClient" es responsable de gestionar la ejecución de las aplicaciones virtualizadas a través de App-V. En pocas palabras, si no emulas sistemas operativos VIRTUALES en tu pc, no necesitas para nada este servicio.
 
 -autotimesvc\
-El servicio "autotimesvc" es responsable de "cambiar" el reloj de tu computador cuando el horario cambia, pongo cambiar entre comillas porque deshabilitando este servicio podemos darnos cuenta de que aunque el horario cambie, el sistema sigue acomodando la hora de nuestro computador.\ 
+El servicio "autotimesvc" es responsable de "cambiar" el reloj de tu computador cuando el horario cambia, pongo cambiar entre comillas porque deshabilitando este servicio podemos darnos cuenta de que aunque el horario cambie, el sistema sigue acomodando la hora de nuestro computador.
 
 -diagnosticshub.standardcollector.service\
+El servicio "diagnosticshub.standardcollector.service" es parte de la plataforma de diagnóstico de Windows. Está relacionado con la recopilación y el envío de datos de diagnóstico y telemetría al equipo de Microsoft para ayudar en la "mejora" del rendimiento y la fiabilidad del sistema operativo. Este servicio normalmente funciona como deberia, siempre que algo en tu programa se bugea y se abre un cuadro de diagnostico te da "soluciones", pero al final estas soluciones nunca terminan arreglando el error y aun asi realizan cambios en el equipo.
 
 -diagsvc\
 
