@@ -90,13 +90,3 @@ El servicio de TermService es un componente de Windows que permite a un usuario 
 
 -UevAgentService\
 permite capturar opciones de configuración de Windows y de las aplicaciones personalizadas por el usuario y almacenarlas en un recurso compartido de archivos de red administrado de forma centralizada.
-
--wercplsupport\
-
--WerSvc\
-
--WinRM\
-
--wisvc\
-
--WpcMonSvc.
