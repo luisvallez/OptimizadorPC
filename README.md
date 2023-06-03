@@ -9,7 +9,7 @@ Esto se debe a que como el programa realiza cambios en el equipo, y no tener un 
 Gracias por tu atencion, si es que leiste esto.
 
 
-## Servicios que deshabilita el programa
+## Servicios que deshabilita el programa ✅
 -AppVClient\
 -autotimesvc\
 -diagnosticshub.standardcollector.service\
