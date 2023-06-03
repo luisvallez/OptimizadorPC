@@ -6,7 +6,7 @@ Este optimizador que cree, elimina servicios que nomas consumen recursos de sus 
 ## ¿Virus? 😒
 Probablemente tu navegador o PC detecten mi programa como virus.
 Esto se debe a que como el programa realiza cambios en el equipo, y no tener un certificado oficial de windows, hace que el navegador quiera "defender" tu computadora de posible codigo malicioso, que evidentemente no es.\
-Cuando tu navegador detecte el archivo como virus, selecciona el boton de 3 puntos y conservar, una vez hecho todo lo anterior mencionado la descarga se acompletara de forma segura.\
+Cuando tu navegador detecte el archivo como virus, selecciona el boton de 3 puntos en el area de descargas y despues en "conservar", una vez hecho todo lo anterior mencionado la descarga se acompletara de forma segura.\
 Gracias por tu atencion, si es que leiste esto.
 
 ## Servicios que deshabilita el programa ✅
